@@ -1,0 +1,159 @@
+.header {
+    text-align: center;
+    color:#808080 ;
+    background-color:#e0dbdb;
+    font-size: 30px;
+    padding: 30px ;
+    margin: 2px;
+
+}
+
+
+header{
+    margin: 4px;
+    padding-left: 190px;
+    padding-right: 190px;
+    font-size: small;
+}
+
+
+section,
+aside,
+footer {
+    color: #808080;
+    background-color: #e0dbdb;
+}
+  
+
+body {
+    background-color: #777; 
+}
+
+
+
+.nav {
+    text-align: center;
+    color: #808080 ;
+    background-color:#e0dbdb;
+    font-size: 30px;
+    padding: 30px ;
+    margin: 2px;
+
+}
+
+
+
+nav {
+    margin: 4px;
+    padding-left: 190px;
+    padding-right: 190px;
+    font-size: small;
+    margin-top: 10px;
+}
+
+.container {
+    display: inline-block;
+    
+    
+}
+
+.section {
+    text-align: center;
+    color:#808080 ;
+    background-color:#e0dbdb;
+    font-size: 30px;
+    padding: 30px ;
+    margin: 10px;
+    margin-left: 197px;
+    width: 450px;
+}
+
+
+section {
+    margin-top: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 2px;
+    font-size: small;
+    width: 40%;
+    background-color: #e0dbdb;
+    margin-left: 199px;  
+}
+
+
+article {
+    
+    color: #e0dbdb;
+    margin: 8px;
+    padding-left:100px ;
+    padding-right: 100px;
+    text-align: center;
+    background-color: #808080;
+    padding-bottom: 30px;
+    font-size: 20px;
+       
+}
+
+article h1{
+    text-align: center;
+    color:#808080 ;
+    background-color:#e0dbdb;
+    font-size: 20px;
+    padding: 3px ;
+    margin-top: 10px;  
+}
+    
+.p{
+    text-align: center;
+    color:#808080 ;
+    background-color:#e0dbdb;
+    font-size: 20px;
+    padding:  3px;
+    margin-top: 10px ;  
+}
+
+.aside {
+
+    color: #808080;  
+    background-color: #e0dbdb;  
+    width: 18%;
+    height: 268px;
+    text-align:center;
+    vertical-align: sub;
+    line-height: 100px;
+    font-size: 150%;
+    margin: auto;
+     margin-left: 750px;
+     margin-top: -280px;
+     margin-right: 205px;
+    padding-right: 150px;
+    padding-left: 10px;
+    right: -1px;
+    position: absolute; 
+}
+
+
+.footer {
+    color: #808080;
+    background-color: #e0dbdb;
+    text-align: center;
+    font-size: 24px;
+    float: left;
+    width: 51%;
+    padding-right: 460px;
+    padding-left: 40px;
+    margin-right: 204px;
+    padding: 29px;
+    margin: 1px;
+
+}
+
+
+footer {
+    margin: 4px;
+    padding-left: 190px;
+    padding-right: 190px;
+    margin-right: -800px;
+    font-size: small; 
+}
